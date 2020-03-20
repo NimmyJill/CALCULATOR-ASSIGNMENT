@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 50px;
+    width: 25%;
+    background-color: rgb(220, 20, 20);
+    color: rgb(237, 250, 250);
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 150px;
+    padding-left: 20px;
+}
+.col-md-2{
+    color: black;
+}
+.myMargin{
+    margin: 3px;
+}
+.myMargin2{
+    margin: 3px;
+}
